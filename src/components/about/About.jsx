@@ -21,26 +21,24 @@ const About = () => {
 <article className="about__card">
   <FaAward className="about__icon"/>
   <h5>Experience</h5>
-  <small>3+ Years Working</small>
+  <small>Fresher</small>
 </article>
 
-<article className="about__card">
+ <article className="about__card">
   <FiUsers className=" about__icon"/>
-  <h5>Clients</h5>
-  <small>200+ Worldwide</small>
-</article>
+  <h5>Technology</h5>
+  <small>MERN stack</small>
+</article> 
   <article className="about__card">
     <VscFolderLibrary className=" about__icon"/>
     <h5>Projects</h5>
-    <small>80+ Completed</small>
+    <small>3+ Completed</small>
   </article>
 </div>
         <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptatem eius dolorem
-maiores nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi
-amet repellat molestias quos totam.
+I am Lins Thomas, completed B.tech electrical from College Of Engineering, Kidangoor. I completed training on MERN stack from Attainu and Luminar Technolab. I am capable of working in technologies such as React JS, Node JS, Python. I completed several projects in MERN stack and still continuing doing projects and learning technologies.
         </p>
-      <a href="#contact" className='btn btn-primary'> Let's Talk </a>
+      <a href="#contacts" className='btn btn-primary'> Let's Talk </a>
     </div>
   </div>
 </section>

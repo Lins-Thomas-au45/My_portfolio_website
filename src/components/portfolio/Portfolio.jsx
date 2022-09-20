@@ -17,9 +17,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>Portfolio tittle</h3>
+          <h3>My Portfolio</h3>
         <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn'>Github</a>
+          <a href="https://github.com/Lins-Thomas-au45/My_portfolio_website" className='btn' target='_blank'>Github</a>
           <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target= '_blank'>Live Demo</a>
 
         </div>
@@ -29,9 +29,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>Portfolio tittle</h3>
+          <h3>still on going</h3>
           <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn'>Github</a>
+          <a href="https://github.com/Lins-Thomas-au45/My_portfolio_website" className='btn' target='_blank'>Github</a>
           <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target= '_blank'>Live Demo</a>
           </div>
           </article>
@@ -40,7 +40,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>Portfolio tittle</h3>
+          <h3>still ongoing</h3>
           <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>Github</a>
           <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target= '_blank'>Live Demo</a>
@@ -51,7 +51,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>Portfolio tittle</h3>
+          <h3>stil ongoing</h3>
           <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>Github</a>
           <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target= '_blank'>Live Demo</a>
@@ -62,7 +62,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>Portfolio tittle</h3>
+          <h3>still ongoing</h3>
           <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>Github</a>
           <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target= '_blank'>Live Demo</a>
@@ -73,7 +73,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>Portfolio tittle</h3>
+          <h3>still on going</h3>
           <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>Github</a>
           <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target= '_blank'>Live Demo</a>
